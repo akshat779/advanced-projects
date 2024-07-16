@@ -11,4 +11,7 @@
 
 .navbar .profile {
     width: 60px;
+    background-size: contain;
+    background-position: center;
+    /* border-radius: 60%; */
 }
